@@ -1,0 +1,14 @@
+{
+    "name": "indraniltestapp",
+    "description": "test application for serverless dev",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+    },
+    "devDependencies": {
+        "jest": "^24.7.1"
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
